@@ -106,3 +106,6 @@ dist
 # Vitepress
 .vitepress/dist
 .vitepress/cache
+
+# Custom
+.npmrc
