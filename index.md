@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "O's Blog"
+  text: "A Simple Site"
+  tagline: A Default Theme Home Page
+
   actions:
     - theme: brand
       text: Markdown Examples
@@ -19,10 +20,6 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Feature Details
 ---
 
